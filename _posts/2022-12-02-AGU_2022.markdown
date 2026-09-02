@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "American Geophysical Union 2022"
+date:   2026-09-02 14:06:23 -0400
+categories: jekyll update
+---
+
+### "Tracking Evaporation Evolution in Soil Columns using Dose Reduced Neutron Tomography"
+
+- Contact E-mail: mcyrusdaugherty@gmail.com
+- Poster number: B25H-1638
+- Authors: M.C. Daugherty, J.M. LaManna, X.Zeng, Y. Kim, D.S. Hussey, E. Baltic, D.L. Jacobson, Y. Jin
+
+
+---
+
+### Experiment
+
+"Water Retention in Soils for Plant Drought Resistance"
+
+In collaboration with professor Yan Jin at the University of Delaware.
+
+Experimental test to determine efficacy of soil for water retention.
+
+Flow Cell design:
+
+- The flow cell controls evaporation and allows evaporation to be stopped
+- Can control flow rate, temperature, humidity, and pressure of gas stream. Schematic of flow cell design: schematic of flow cell
+- Seed dataset (high-resolution):
+    - 1200 projection
+    - 12 hour
+    - partially saturated
+- 5D tomography of soil column dry-out (3 spatial + time + imaging modality)
+    - dry gas
+    - “rapid” scans
