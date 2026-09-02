@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "American Geophysical Union 2022"
-date:   2026-09-02 14:06:23 -0400
+date:   2022-12-02 14:06:23 -0400
 categories: jekyll update
 ---
 

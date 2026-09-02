@@ -8,11 +8,17 @@ permalink: /publications/
 
 - [Daugherty, M. C., Disalvo, M., Goldfain, A., Peterson, A., Kwee, E., Germer, T., Cooksey, G., Budhathoki, J., & Bajcsy, P. (2025). Nanoparticle Diameter Measurements with Event Camera Tracking. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, 4928–4937](https://doi.org/10.1109/CVPRW67362.2025.00485)
 
+- [Kim, Y., Daugherty, M. C., Hussey, D. S., LaManna, J. M., Jacobson, D. L., Kim, J., Wolf, C. M., Kienzle, P. A., Kim, D., Han, M., Choo, H., Lee, S. W., & Kim, T. J. (2025). Application of neutron grating interferometry and tomography to the nineteenth century Korean copper coins. Scientific Reports, 15.](https://doi.org/10.1038/s41598-025-99235-x)
+
+
 ## 2024
 
 - [Wolf, C. M., Kim, Y., Kienzle, P., Sathe, P. S., Daugherty, M. C., Bajcsy, P., Hussey, D. S., & Weigandt, K. M. (2024). Simulation of neutron dark-field data for grating-based interferometers. Journal of Applied Crystallography, 57(2), 403–412.](https://doi.org/10.1107/S1600576724001201)
 
 - [Sathe, P. S., Wolf, C. M., Kim, Y., Robinson, S. M., Daugherty, M. C., Murphy, R. P., LaManna, J. M., Huber, M. G., Jacobson, D. L., Kienzle, P. A., Weigandt, K. M., Klimov, N. N., Hussey, D. S., & Bajcsy, P. (2024). Data-driven simulations for training AI-based segmentation of neutron images. Scientific Reports, 14(1), 6614.](https://doi.org/10.1038/s41598-024-56409-3)
+
+
+- [Wolf, C. M., Bajcsy, P., Chen, W.-R., Dalgliesh, R. M., Daugherty, M. C., de Campo, L., Funama, F., He, L., Huber, M. G., Jacobson, D. L., Kienzle, P., Kim, Y., King, H., Klimov, N. N., LaManna, J. M., Li, F., Long, A. M., Murphy, R., Nagy, G., Robinson, S. M., Sathe, P., Smith, G. N., Sokolova, A., Vogel, S. C., Watkins, E. B., Zhang, Y., Hussey, D. S. & Weigandt, K. M. (2024). Small-angle scattering and dark-field imaging for validation of a new neutron far-field interferometer. J. Appl. Cryst. 57, 1841-1851.](https://doi.org/10.1107/S1600576724009944)
 
 ## 2023
 
