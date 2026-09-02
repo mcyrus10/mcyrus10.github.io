@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am a researcher studying event cameras for applications in nanoparticle tracking. Formerly I worked on processing neutron and x-ray images, specifically tomographic reconstructions of various materials.
+I am a researcher currently studying event cameras for applications in nanoparticle tracking. My research interests include:
+- Neutron and X-ray imaging
+- Sparse angle tomographic reconstructions
+- Neural networks for image processing
+- Particle tracking
+- Event cameras
+- Vanadium redox flow batteries
 
 In my free time I like to run, ride my bike, and jam!
