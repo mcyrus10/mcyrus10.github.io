@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2026
+
+- [Seiler, D., LaManna, J. M., McOsker, M., Kreimer, D., Daugherty, M. C., & Dopke, J. (2026). A model carbonized papyrus scroll opens a novel path to identifying readable scrolls of the Herculaneum Library. PLOS ONE, 21(9), e0353485](https://doi.org/10.1371/JOURNAL.PONE.0353485)
+
+
 ## 2025
 
 - [Daugherty, M. C., Disalvo, M., Goldfain, A., Peterson, A., Kwee, E., Germer, T., Cooksey, G., Budhathoki, J., & Bajcsy, P. (2025). Nanoparticle Diameter Measurements with Event Camera Tracking. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, 4928–4937](https://doi.org/10.1109/CVPRW67362.2025.00485)
@@ -43,3 +48,5 @@ permalink: /publications/
 ## 2018
 
 - [Gandomi, Y. A., Aaron, D. S., Houser, J. R., Daugherty, M. C., Clement, J. T., Pezeshki, A. M., Ertugrul, T. Y., Moseley, D. P., & Mench, M. M. (2018). Critical Review—Experimental Diagnostics and Material Characterization Techniques Used on Redox Flow Batteries. Journal of The Electrochemical Society, 165(5), A970–A1010.](https://doi.org/10.1149/2.0601805jes)
+
+
